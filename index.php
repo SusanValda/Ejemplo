@@ -4,6 +4,7 @@
 </head>
 <body  bgcolor="#ffb6c1">
 <H1><center><font face="Georgia" color="blue">REGISTRO DE ESTUDIANTES</font></center> </H1>
+<H1><center><font face="Georgia" color="blue">ACTUALIZADO</font></center> </H1>
 <center><img src="estu.jpg" ></center>
 <br>
 <?php
